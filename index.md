@@ -1,5 +1,5 @@
 
-### ََAbout me: 
+### About Me : 
 I am masume rezaei
 I'm majoring computer engineering in Payam-nour university.
 I also work as an accountant.
@@ -20,7 +20,8 @@ I'm still learning.
 ### Languages:
 - Persian (mother tongue) 
 -English (fluent) 
-### Work experience: High school Math and Physics teaching 2018-2019
+### Work experience:
+- High school Math and Physics teaching 2018-2019
 - Injection personnel in clinic 2017 - 2018 
 - Developer 2019 
 - Accountant 2019 - present 
