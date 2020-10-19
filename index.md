@@ -1,5 +1,4 @@
-
-### About Me : 
+### About Me :
 I am masume rezaei
 I'm majoring computer engineering in Payam-nour university.
 I also work as an accountant.
@@ -28,6 +27,4 @@ I'm still learning.
 ### Education:
 - Mathematic diploma Sa'adat high school 2015 - 2017
 - Computer engineering/Payam-nour university 2018 - present
-
-
  persian Resume:<a href="https://rezaeimasumeh-fa.github.io/rezaeimasumeh.github.io/"> Resume </a>
