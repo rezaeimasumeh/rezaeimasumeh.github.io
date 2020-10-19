@@ -19,7 +19,7 @@ I'm still learning.
 - social media advertising 
 ### Languages:
 - Persian (mother tongue) 
--English (fluent) 
+- English (fluent) 
 ### Work experience:
 - High school Math and Physics teaching 2018-2019
 - Injection personnel in clinic 2017 - 2018 
