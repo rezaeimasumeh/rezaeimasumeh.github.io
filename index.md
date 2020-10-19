@@ -8,7 +8,7 @@ I'm still learning.
 *Personal information:
 Name: masume
 Last name: rezaei
-Birth: 1996 January 25
+Birth: 1996/ January /25
 Marriage status: married
 Job status: full-time
 Location: Iran, Tehran 
