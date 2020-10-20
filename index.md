@@ -33,8 +33,8 @@ I'm still learning.
 - Mathematic diploma Sa'adat high school 2015 - 2017
 - Computer engineering/Payam-nour university 2018 - present
 
-### contact with me :
+### contact me :
 - Contact : 09034524796
-- Email :rezaeimazuma@gmail.com
+- Email : rezaeimazuma@gmail.com
 
 persian Resume: <a href="https://rezaeimasumeh.github.io/rezaeimasumeh-fa.github.io/"> Resume </a>
