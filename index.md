@@ -17,7 +17,7 @@ I'm still learning.
 - public speaking
 - social media advertising 
 ### Languages:
-- Persian (mother tongue) 
+- Persian (mother tongue)
 - English (fluent) 
 ### Work experience:
 - High school Math and Physics teaching 2018-2019
